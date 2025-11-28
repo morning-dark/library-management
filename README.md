@@ -53,7 +53,7 @@ cd library-management
 - **Start the Configuration Server:** ```config-service```.
 - **Start the Discovery Server:** ```eureka-service```.
 - **Start the Business Services:** ```book-service```, ```subscriber-service```, ```loan-service```.
-- **Start the API Gateway:** ```api-gateway.
+- **Start the API Gateway:** ```api-gateway```.
 
 ## Project Structure
 
